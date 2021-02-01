@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_appcustom.test_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>test_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2021-02-01 21:40:33</sys_created_on>
+        <sys_id>c2aaa48ec7422010213be1d68dc2608a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_appcustom.test_user</sys_name>
+        <sys_package display_value="AppCustom" source="sn_appcustom">a97ae08ec7422010213be1d68dc260d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AppCustom">a97ae08ec7422010213be1d68dc260d9</sys_scope>
+        <sys_update_name>sys_user_role_c2aaa48ec7422010213be1d68dc2608a</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2021-02-01 21:40:33</sys_updated_on>
+    </sys_user_role>
+</record_update>
