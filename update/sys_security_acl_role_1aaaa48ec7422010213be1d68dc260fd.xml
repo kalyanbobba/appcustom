@@ -6,9 +6,9 @@
         <sys_id>1aaaa48ec7422010213be1d68dc260fd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_appcustom_test.sn_appcustom.test_user</sys_name>
-        <sys_package display_value="AppCustom" source="sn_appcustom">a97ae08ec7422010213be1d68dc260d9</sys_package>
+        <sys_package display_value="SNAppCustom" source="sn_appcustom">a97ae08ec7422010213be1d68dc260d9</sys_package>
         <sys_policy/>
-        <sys_scope display_value="AppCustom">a97ae08ec7422010213be1d68dc260d9</sys_scope>
+        <sys_scope display_value="SNAppCustom">a97ae08ec7422010213be1d68dc260d9</sys_scope>
         <sys_security_acl display_value="sn_appcustom_test">5aaaa48ec7422010213be1d68dc260fa</sys_security_acl>
         <sys_update_name>sys_security_acl_role_1aaaa48ec7422010213be1d68dc260fd</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>

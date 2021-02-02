@@ -24,13 +24,13 @@
         <sys_class_path/>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2021-02-01 21:40:34</sys_created_on>
-        <sys_id>893730c2c7022010213be1d68dc260d1</sys_id>
+        <sys_id>c4457506c7422010213be1d68dc26038</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Test</sys_name>
-        <sys_package display_value="AppCustom" source="sn_appcustom">a97ae08ec7422010213be1d68dc260d9</sys_package>
+        <sys_package display_value="SNAppCustom" source="sn_appcustom">a97ae08ec7422010213be1d68dc260d9</sys_package>
         <sys_policy/>
-        <sys_scope display_value="AppCustom">a97ae08ec7422010213be1d68dc260d9</sys_scope>
-        <sys_update_name>sys_db_object_893730c2c7022010213be1d68dc260d1</sys_update_name>
+        <sys_scope display_value="SNAppCustom">a97ae08ec7422010213be1d68dc260d9</sys_scope>
+        <sys_update_name>sys_db_object_c4457506c7422010213be1d68dc26038</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>
         <sys_updated_on>2021-02-01 21:40:34</sys_updated_on>
         <update_access>false</update_access>
